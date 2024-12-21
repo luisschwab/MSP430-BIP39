@@ -17,7 +17,7 @@ On this project, I'll make the folowing sources availabe to the user:
 - Microphone,
 
 ## Software
-BIP39 seed phrase generation if pretty straight forward: only basic math operations are necessary, and the most complex function will be the SHA-256 
+BIP39 seed phrase generation is pretty straight forward: only basic math operations are necessary, and the most complex function will be the SHA-256 
 hashing function, which I have previously implemented [here](https://github.com/luisschwab/sha256.c).
 
 ## Hardware
