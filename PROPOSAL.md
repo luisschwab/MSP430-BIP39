@@ -12,7 +12,7 @@ It's interesting to source at least 256 bits of entropy for good key generation.
 of funds.
 
 On this project, I'll make the folowing sources availabe to the user:
-- Dice thows, via a keypad or something similar,
+- Dice throws, via a keypad or something similar,
 - Accelerometer (shake to make entropy),
 - Microphone,
 
